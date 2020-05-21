@@ -1,0 +1,69 @@
+html, body{
+    font-family: Arial, sans-serif;
+    margin: 0px;
+}
+
+header{
+    background-color: #fcba03;
+    padding: 60px;
+    text-align: center;
+    max-width: 100%;
+}
+
+.navbar-default{
+    background: #CC0000;
+}
+
+h1{
+    font-size: 90px;
+    color: white;
+}
+
+.Pikahchu4{
+    text-align: center;
+    max-width: 100%;
+}
+
+header img{
+    border-radius: 300px;
+    width: 400px;
+    border: 15px solid #CC0000;
+}
+
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+p.caption{
+    font-size: 16px;
+    color: lightgray;
+    font-style: italic;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 20px;
+    padding: 40px 20px;
+    background-color: #E6E6E6;
+}
+
+footer ul{
+    text-align: center;
+}
+
+footer ul li{
+    display: inline-block;
+    margin: 0 5px;
+}
